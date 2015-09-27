@@ -55,6 +55,15 @@ a:focus {
     font-weight: 400;
 }
 
+#swap {
+    width: 0;
+    height: 28px;
+}
+
+#swap > span {
+    position: absolute;
+}
+
 .navbar-custom {
     margin-bottom: 0;
     border-bottom: 1px solid rgba(255,255,255,.3);
