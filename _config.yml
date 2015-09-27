@@ -6,7 +6,7 @@ description: "Personal Website of David Zhang, Software Engineering Student at t
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '#A9A9A9'
+  primary-dark: '#191919'
   links: '#219ab3'
 
 # Footer settings
