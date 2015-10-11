@@ -1,11 +1,11 @@
-var txt = ['a fullstack developer', 'an avid rockclimber', ' a swimmer', 'a biker', 'a hiker', 'an aviation enthusiast'],
+var txt = ['a fullstack developer', 'an avid rockclimber', ' a swimmer', 'a biker', 'a hiker', 'an aviation enthusiast', 'a Leafs fan'],
     n = txt.length,
     $swap = $('#swap'),
     $span,
     c = -1;
 
 // CREATE SPANS INSIDE SPAN
-for(var i=0; i<txt.length; i++) $swap.append($('<span />',{text:txt[i]}));
+for(var i=0; i<txt.length; i++) $swap.append($('<span />',{text:'I am '+txt[i]+'.'}));
 // HIDE AND COLLECT THEM
 $span = $("span", $swap).hide(); 
 
