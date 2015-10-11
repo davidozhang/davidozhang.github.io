@@ -58,7 +58,7 @@ a {
 }
 
 .navbar-custom a {
-    color: rgba(0,0,0,0.5);
+    color: rgba(255,255,255);
 }
 
 .navbar-custom .nav li.active {
@@ -258,7 +258,7 @@ ul.banner-social-buttons li {
 
     .top-nav-collapse {
         padding: 0;
-        background-color: rgba(255,255,255,0.5);
+        background-color: rgba(255,255,255,0.1);
     }
 
     .intro {
