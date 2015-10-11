@@ -180,7 +180,7 @@ a {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background-color: rgba(255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -215,16 +215,20 @@ ul.banner-social-buttons li {
     margin-bottom: 15px;
 }
 
-@media(max-width:1199px) {
+@media(max-width:1024px) {
     ul.banner-social-buttons {
         margin-top: 15px;
     }
 }
 
-@media(max-width: 768px) {
+@media(max-width: 1024px) {
     body {
         background: none;
-        background-color: {{ site.color.primary-dark }};
+        background-color: #191919;
+    }
+
+    .projects-section {
+        background-color: none;
     }
 
     .intro {
@@ -238,7 +242,7 @@ ul.banner-social-buttons li {
 
 }
 
-@media(min-width:768px) {
+@media(min-width:1024px) {
 
     p {
         margin: 0 0 35px;
@@ -258,7 +262,7 @@ ul.banner-social-buttons li {
 
     .top-nav-collapse {
         padding: 0;
-        background-color: rgba(255,255,255,0.1);
+        background-color: rgba(255,255,255,0.2);
     }
 
     .intro {

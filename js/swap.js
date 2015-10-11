@@ -4,9 +4,7 @@ var txt = ['a fullstack developer', 'an avid rockclimber', ' a swimmer', 'a bike
     $span,
     c = -1;
 
-// CREATE SPANS INSIDE SPAN
 for(var i=0; i<txt.length; i++) $swap.append($('<span />',{text:'I am '+txt[i]+'.'}));
-// HIDE AND COLLECT THEM
 $span = $("span", $swap).hide(); 
 
 (function loop(){
