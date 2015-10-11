@@ -1,24 +1,22 @@
-# Site settings
 title: David Zhang
 email: davzee@hotmail.com
 url: https://www.davzhang.me/
 description: "Personal Website of David Zhang, Software Engineering Student at the University of Waterloo"
 
-# Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#191919'
-  links: '#219ab3'
 
-# Footer settings
 footer: David Zhang
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
     url: https://github.com/davidozhang
   - title: linkedin
     url: https://linkedin.com/in/davzhang1
+  - title: facebook
+    url: https://www.facebook.com/davido.zhang
+  - title: flickr
+    url: https://flickr.com/photos/davzee
 
-# Build settings
 markdown: kramdown
 permalink: pretty
