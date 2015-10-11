@@ -221,7 +221,7 @@ ul.banner-social-buttons li {
     }
 }
 
-@media(max-width: 767px) {
+@media(max-width: 768px) {
     body {
         background: none;
         background-color: {{ site.color.primary-dark }};
@@ -238,7 +238,7 @@ ul.banner-social-buttons li {
 
 }
 
-@media(min-width:767px) {
+@media(min-width:768px) {
 
     p {
         margin: 0 0 35px;
