@@ -1,0 +1,44 @@
+- title: "iTunes Live Lyrics Mac Client"
+  image_url: "/assets/img/itunes.jpg"
+  github_url: "https://github.com/davidozhang/ituneslivelyrics"
+  description: "Python script displaying live lyrics from song playing in iTunes"
+
+- title: "Bubble Fantasy"
+  image_url: "/assets/img/bubble.jpg"
+  github_url: "https://github.com/davidozhang/python-game-suite"
+  description: "Part of a game suite made with Pygame Framework"
+
+- title: "Ball Dodger"
+  image_url: "/assets/img/dodge.jpg"
+  github_url: "https://github.com/davidozhang/python-game-suite"
+  description: "Part of a game suite made with Pygame Framework"
+
+- title: "Castor Human Resource Manager"
+  image_url: "/assets/img/hr.jpg"
+  github_url: "https://github.com/davidozhang/python-human-resource"
+  description: "A comprehensive human resource management tool developed using Python"
+
+- title: "Tetris"
+  image_url: "/assets/img/tetris.jpg"
+  github_url: "https://github.com/davidozhang/tetris"
+  description: "A rendition of Tetris made with Java GUI"
+
+- title: "MyLibraryManager"
+  image_url: "/assets/img/library.jpg"
+  github_url: "https://github.com/davidozhang/mylibrarymanager"
+  description: A book library management database made with Java GUI"
+
+- title: "MySpreadsheet"
+  image_url: "/assets/img/spreadsheet.jpg"
+  github_url: "https://github.com/davidozhang/myspreadsheet"
+  description: "A fully functional mathematical spreadsheet made with Java GUI"
+
+- title: "Blackjack"
+  image_url: "/assets/img/blackjack.jpg"
+  github_url: "https://github.com/davidozhang/turing-blackjack"
+  description: "A rendition of Blackjack made with Turing GUI"
+
+- title: "Point of Sales System"
+  image_url: "/assets/img/pos.jpg"
+  github_url: "https://github.com/davidozhang/turing-point-of-sales"
+  description: "A fully functional barcode scanner system made with Turing"
