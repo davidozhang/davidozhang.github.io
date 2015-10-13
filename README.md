@@ -1,1 +1,1 @@
-My Personal Website @ davzhang.me, powered by Jekyll. Still under construction!
+My Personal Website @ davzhang.me, powered by Jekyll.
