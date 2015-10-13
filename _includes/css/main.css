@@ -26,8 +26,8 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
     margin: 0 0 25px;
-    font-size: 18px;
-    line-height: 1.5;
+    font-size: 10px;
+    line-height: 1;
 }
 
 a {
@@ -185,6 +185,48 @@ a {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+.project-item {
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+}
+
+.project-item::before {
+    content: ' ';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: transparent;
+    transition: background .35s ease-out;
+    transform: translateZ(0);
+}
+
+.project-item:hover::before {
+    background: rgba(0,0,0,0.5);
+}
+
+.project-overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 10px;
+    color: white;
+    transform: translateY(100%);
+    transition: transform .35s ease-out;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+}
+
+.project-item:hover .project-overlay {
+    transform: translateY(0);
 }
 
 .btn {

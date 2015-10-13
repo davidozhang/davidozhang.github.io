@@ -4,7 +4,14 @@
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Projects</h2>
                     {% for project in site.data.projects %}
-                        <img src="{{project.image_url}}"></img>
+                        <article class="project-item">
+                            <img src="{{project.image_url}}"></img>
+                            <div class="project-overlay">
+                                <h4 class="project-title">{{ project.title }}</h4>
+                                <p class="project-content">{{ project.description }}</p>
+                                <a href="{{ project.github_url }}" class="btn btn-lg"><i class="fa fa-github fa-2x"></i></a>
+                            </div>
+                        </article>
                     {% endfor %}
             </div>
         </div>
