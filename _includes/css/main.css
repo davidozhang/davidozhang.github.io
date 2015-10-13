@@ -203,9 +203,12 @@ a {
     background: transparent;
     transition: background .35s ease-out;
     transform: translateZ(0);
+    -webkit-transform: translateZ(0);
 }
 
-.project-item:hover::before {
+.project-item:hover::before,
+.project-item:focus::before,
+.project-item:active::before {
     background: rgba(0,0,0,0.5);
 }
 
@@ -227,6 +230,17 @@ a {
 
 .project-item:hover .project-overlay {
     transform: translateY(0);
+    -webkit-transform: translateY(0);
+}
+
+.project-item:focus .project-overlay {
+    transform: translateY(0);
+    -webkit-transform: translateY(0);
+}
+
+.project-item:active .project-overlay {
+    transform: translateY(0);
+    -webkit-transform: translateY(0);
 }
 
 .btn {
