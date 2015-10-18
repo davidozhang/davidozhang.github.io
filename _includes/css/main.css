@@ -2,13 +2,8 @@ body {
     width: 100%;
     height: 100%;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #191919;
     color: #fff;
-    background: url(/assets/img/profile.jpg) no-repeat center center fixed;
-    position: relative;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
 }
 
 html {
@@ -94,11 +89,11 @@ a {
 }
 
 .intro .intro-body .brand-heading {
-    font-size: 40px;
+    font-size: 60px;
 }
 
 .intro .intro-body .intro-text {
-    font-size: 18px;
+    font-size: 24px;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, sans-serif;
 }
 
@@ -176,15 +171,18 @@ a {
     }
 }
 
+.profile-small-screen {
+    text-align:center;
+    width:30%;
+    display:block;
+    margin:auto;
+}
+
 .projects-section {
     width: 100%;
     padding: 50px 0;
     color: #fff;
     background-color: rgba(255, 255, 255, 0.1);
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
 }
 
 .project-item {
@@ -277,28 +275,11 @@ ul.banner-social-buttons li {
     }
 }
 
-@media(max-width: 1024px) {
-    body {
-        background: none;
-        background-color: #191919;
-    }
-
-    .projects-section {
-        background-color: none;
-    }
-
-    .intro {
-        background: url(/assets/img/profile.jpg) no-repeat center center scroll;
-        position: relative;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        background-size: cover;
-        -o-background-size: cover;
-    }
-
-}
-
 @media(min-width:1024px) {
+
+    .profile-small-screen {
+        display: none;
+    }
 
     p {
         margin: 0 0 35px;
@@ -331,7 +312,7 @@ ul.banner-social-buttons li {
     }
 
     .intro .intro-body .intro-text {
-        font-size: 25px;
+        font-size: 30px;
     }
 
     ul.banner-social-buttons li {
