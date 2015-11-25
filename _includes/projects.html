@@ -10,6 +10,7 @@
                                 <h4 class="project-title">{{ project.title }}</h4>
                                 <p class="project-content">{{ project.description }}</p>
                                 <a href="{{ project.github_url }}" class="btn btn-lg"><i class="fa fa-github fa-2x"></i></a>
+                                {% if project.other_url %}<a href="{{ project.other_url }}" class="btn btn-lg"><i class="fa fa-ellipsis-h fa-2x"></i></a>{% endif %}
                             </div>
                         </article>
                     {% endfor %}
