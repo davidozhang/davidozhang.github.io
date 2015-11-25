@@ -1,5 +1,6 @@
 var txt = [	'a UW SoftEng student',
 			'a fullstack developer',
+			'an iOS mobile developer',
 			'an avid rockclimber',
 			'an aviation enthusiast',
 			'a swimmer',

@@ -1,3 +1,18 @@
+- title: "Scarecrow"
+  image_url: "/assets/img/scarecrow.jpg"
+  github_url: "https://github.com/davidozhang/scarecrow-ios"
+  description: "2nd Place at Intel IoT Roadshow 2015"
+
+- title: "Pebblyrics"
+  image_url: "/assets/img/pebblyrics.jpg"
+  github_url: "https://github.com/davidozhang/pebblyrics-ios"
+  description: "Pebble + iOS app for displaying lyrics"
+
+- title: "PebbleReact"
+  image_url: "/assets/img/pebblereact.jpg"
+  github_url: "https://github.com/davidozhang/pebblereact"
+  description: "First Pebble Watchapp"
+
 - title: "Coop Network"
   image_url: "/assets/img/coop.jpg"
   github_url: "https://github.com/davidozhang/coop-network"
