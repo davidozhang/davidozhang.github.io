@@ -44,12 +44,12 @@
   github_url: "https://github.com/davidozhang/tetris"
   description: "A rendition of Tetris made with Java GUI"
 
-- title: "MyLibraryManager"
+- title: "My Library Manager"
   image_url: "/assets/img/library.jpg"
   github_url: "https://github.com/davidozhang/mylibrarymanager"
   description: "Book library manager made with Java GUI"
 
-- title: "MySpreadsheet"
+- title: "My Spreadsheet"
   image_url: "/assets/img/spreadsheet.jpg"
   github_url: "https://github.com/davidozhang/myspreadsheet"
   description: "Math spreadsheet made with Java GUI"
