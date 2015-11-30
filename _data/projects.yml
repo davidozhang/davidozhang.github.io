@@ -1,3 +1,9 @@
+- title: "Off The Grid"
+  image_url: "/assets/img/off-the-grid.jpg"
+  github_url: "https://github.com/davidozhang/off-the-grid"
+  other_url: "http://devpost.com/software/off-the-grid-lhgj8q"
+  description: "MLH Finalist project at Hack Western 2"
+
 - title: "Scarecrow"
   image_url: "/assets/img/scarecrow.jpg"
   github_url: "https://github.com/davidozhang/scarecrow-ios"
@@ -17,6 +23,7 @@
 - title: "Coop Network"
   image_url: "/assets/img/coop.jpg"
   github_url: "https://github.com/davidozhang/coop-network"
+  other_url: "http://devpost.com/software/coop-network"
   description: "Better coop job-finding experience"
 
 - title: "iTunes Live Lyrics"
