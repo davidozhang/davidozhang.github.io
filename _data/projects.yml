@@ -1,3 +1,9 @@
+- title: "Snapshop"
+  image_url: "/assets/img/snapshop.jpg"
+  github_url: "https://github.com/davidozhang/snapshop"
+  other_url: "http://devpost.com/software/snapshop-q9y1pu"
+  description: "Self-checkout iOS shopping app"
+
 - title: "Off The Grid"
   image_url: "/assets/img/off-the-grid.jpg"
   github_url: "https://github.com/davidozhang/off-the-grid"
