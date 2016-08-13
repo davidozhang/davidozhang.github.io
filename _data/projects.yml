@@ -1,3 +1,9 @@
+- title: "Spycodes"
+  image_url: "/assets/img/spycodes.jpg"
+  github_url: "https://github.com/davidozhang/spycodes"
+  other_url: "https://itunes.apple.com/us/app/spycodes/id1141711201?mt=8"
+  description: "Available on the App Store!"
+
 - title: "Snapshop"
   image_url: "/assets/img/snapshop.jpg"
   github_url: "https://github.com/davidozhang/snapshop"
