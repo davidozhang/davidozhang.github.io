@@ -1,4 +1,4 @@
-var txt = [	'a UW SE student',
+var txt = [	'an SE student',
 			'a fullstack dev',
 			'an iOS dev',
 			'a rockclimber',

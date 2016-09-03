@@ -27,11 +27,6 @@
   github_url: "https://github.com/davidozhang/pebblyrics-ios"
   description: "Pebble + iOS app for live lyrics"
 
-- title: "My Website"
-  image_url: "/assets/img/personal-website.jpg"
-  github_url: "https://github.com/davidozhang/davidozhang.github.io"
-  description: "Powered by Jekyll and Amazon S3"
-
 - title: "PebbleReact"
   image_url: "/assets/img/pebblereact.jpg"
   github_url: "https://github.com/davidozhang/pebblereact"
@@ -42,11 +37,6 @@
   github_url: "https://github.com/davidozhang/coop-network"
   other_url: "http://devpost.com/software/coop-network"
   description: "A better coop-finding experience"
-
-- title: "iTunes Live Lyrics"
-  image_url: "/assets/img/itunes.jpg"
-  github_url: "https://github.com/davidozhang/ituneslivelyrics"
-  description: "Display live lyrics of iTunes song"
 
 - title: "Bubble Fantasy"
   image_url: "/assets/img/bubble.jpg"
