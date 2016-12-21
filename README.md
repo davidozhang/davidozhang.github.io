@@ -1,4 +1,4 @@
-My Personal Website @ davzhang.me, powered by Jekyll.
+My Personal Website @davidozhang.com, powered by Jekyll and Github Pages.
 
 ### Run website locally
 
