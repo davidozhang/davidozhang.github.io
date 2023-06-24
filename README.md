@@ -7,4 +7,3 @@ My Personal Website @davidozhang.com, powered by Jekyll and Github Pages.
 - clone repo and `cd` into root project directory
 - `jekyll serve`
 - open browser and go to `localhost:4000` to see a local version of the website~
-
