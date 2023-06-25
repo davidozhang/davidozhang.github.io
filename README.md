@@ -1,6 +1,6 @@
 # davidozhang.github.io
 
-[Personal website](davidozhang.com) powered by Jekyll, Bootstrap and Github Pages with custom domain.
+[Personal website](https://davidozhang.com) powered by Jekyll, Bootstrap and Github Pages with custom domain (currently davidozhang.com).
 
 ### Run website locally
 
@@ -11,4 +11,4 @@
 - Open browser and navigate to `localhost:4000` to view website
 
 ### Deploy changes to custom domain
-- Merge changes into the `master` branch via pull request and it will be [live](davidozhang.com) shortly
+- Merge changes into the `master` branch via pull request and it will be [live](https://davidozhang.com) shortly
